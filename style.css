@@ -1,0 +1,119 @@
+body{
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+}
+.pic{
+  width: 70px;
+  height: 70px;
+  margin:0;
+  position: absolute;
+  left: 100px;
+  top:50px
+
+}
+.top_container{
+
+  background-color: #EAF6F6;
+  position: relative;
+  padding:100px;
+}
+h1{
+  margin: 0;
+  font-size: 4.5rem;
+  font-family: 'Satisfy', cursive;
+  color: #75b79e;
+  line-height: 2;
+}
+h2{
+  color: #11999E;
+  font-family: 'Balthazar', serif;
+}
+h3{
+  font-family: 'Balthazar', serif;
+  color: #11999E;
+}
+.top{
+  margin:0;
+  position: absolute;
+  right: 300px;
+  top:50px
+}
+.bottom{
+  margin: 0;
+  position: absolute;
+  left:300px;
+  bottom:350px;
+}
+.mount{
+  margin: 0;
+  position: relative;
+  top: 103px;
+}
+.para{
+  margin: 0;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+a{
+  color:#11999E;
+}
+.html{
+  width:25%;
+  height: 25%;
+margin-right: 30px;
+  float: left;
+}
+.program{
+  width:25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.para1{
+  color: #40514E;
+}
+.profile{
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+hr{
+  border-style: dotted none none;
+  width: 10%;
+  border-color: #61d4b3;
+  border-width: 5px;
+  margin-bottom: 100px;
+}
+.bottom-container{
+  height: 145px;
+  background-color: #66BFBF;
+}
+.footer-link{
+  position: relative;
+  top: 40px;
+  color:#11999E;
+  word-spacing: 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+a:hover{
+  color: white;
+}
+.pp{
+  position: relative;
+  top: 60px;
+  color: #EAF6F6;
+}
+.contact-me{
+  margin-bottom: 100px;
+}
+.btn{
+  margin: 30px auto auto;
+}
